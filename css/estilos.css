@@ -19,10 +19,11 @@ body
     padding: 0.5em;
 }
 
-#cabecera #logo
+#footer
 {
-    width: 20px;
-    vertical-align: middle;
+ background: #777;
+ color: white;
+ text-align: center;
 }
 
 #cabecera #tagline
